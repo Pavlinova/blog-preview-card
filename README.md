@@ -5,7 +5,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Author](#author)
@@ -13,24 +12,17 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- See hover and focus states for all interactive elements on the page
-
 ### Screenshot
 
 <img src="./Screenshot.gif" alt="drawing" width="300"/>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub]([https://your-solution-url.com](https://github.com/Pavlinova/blog-preview-card))
+- Live Site URL: [GitHub Pages](https://pavlinova.github.io/blog-preview-card/)
 
 ## Author
 
-- Website - [Tatiana Pavlinova](https://www.your-site.com)
 - Frontend Mentor - [@Pavlinova](https://www.frontendmentor.io/profile/Pavlinova)
 
 ## Acknowledgments
