@@ -18,7 +18,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [GitHub]([https://your-solution-url.com](https://github.com/Pavlinova/blog-preview-card))
+- Solution URL: [GitHub]([https://your-solution-url.com](https://github.com/Pavlinova/blog-preview-card)
 - Live Site URL: [GitHub Pages](https://pavlinova.github.io/blog-preview-card/)
 
 ## Author
